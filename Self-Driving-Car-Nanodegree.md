@@ -34,3 +34,10 @@ This is the summary of my work on Self Driving Car Nanadegree Program (Udacity).
 ---
 
 ## Term 2
+
+| No | Project name              | Repository (on Github)               | Summary                             | 
+|:--:|:-------------------------:|:------------------------------------:|:-----------------------------------:|
+| 6  | Kidnapped Vehicle         |[CarND-Kidnapped-Vehicle-Project](https://github.com/pl80tech/CarND-Kidnapped-Vehicle-Project) |[Writeup](https://github.com/pl80tech/CarND-Kidnapped-Vehicle-Project/blob/master/WriteUp.md) |
+| 7  | Path Planning             |[CarND-Path-Planning-Project](https://github.com/pl80tech/CarND-Path-Planning-Project) |[Writeup](https://github.com/pl80tech/CarND-Path-Planning-Project/blob/master/WriteUp.md) |
+| 8  | PID Control               |[CarND-PID-Control-Project](https://github.com/pl80tech/CarND-PID-Control-Project) |[Writeup](https://github.com/pl80tech/CarND-PID-Control-Project/blob/master/WriteUp.md) |
+| 9  | Programming a Real Self-Driving Car |[CarND-Capstone](https://github.com/pl80tech/CarND-Capstone) |[Writeup](https://github.com/pl80tech/CarND-Capstone/blob/master/WriteUp.md) |
