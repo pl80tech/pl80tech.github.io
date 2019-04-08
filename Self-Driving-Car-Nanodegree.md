@@ -1,4 +1,5 @@
 # Self Driving Car Nanodegree
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 This is the summary of my work on Self Driving Car Nanadegree Program (Udacity).
 
