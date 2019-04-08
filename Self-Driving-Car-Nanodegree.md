@@ -24,13 +24,13 @@ This is the summary of my work on Self Driving Car Nanadegree Program (Udacity).
 
 ## Term 1
 
-| No | Project name              | Repository (on Github)               | Summary                             | 
-|:--:|:-------------------------:|:------------------------------------:|:-----------------------------------:|
-| 1  | Finding Lane Line         |[CarND-LaneLines-P1](https://github.com/pl80tech/CarND-LaneLines-P1) |[Writeup](https://github.com/pl80tech/CarND-LaneLines-P1/blob/master/WriteUp.md) |
-| 2  | Advanced Lane Finding     |[CarND-Advanced-Lane-Finding](https://github.com/pl80tech/CarND-Advanced-Lane-Finding) |[Writeup](https://github.com/pl80tech/CarND-Advanced-Lane-Finding/blob/master/WriteUp.md) |
-| 3  | Traffic Sign Recognition  |[CarND-Traffic-Sign-Classifier](https://github.com/pl80tech/CarND-Traffic-Sign-Classifier) |[Writeup](https://github.com/pl80tech/CarND-Traffic-Sign-Classifier/blob/master/WriteUp.md) |
-| 4  | Behavioral Cloning        |[CarND-Behavioral-Cloning-P3](https://github.com/pl80tech/CarND-Behavioral-Cloning-P3) |[Writeup](https://github.com/pl80tech/CarND-Behavioral-Cloning-P3/blob/master/WriteUp.md) |
-| 5  | Extended Kalman Filter    |[CarND-Extended-Kalman-Filter-Project](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project) |[Writeup](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project/blob/master/WriteUp.md) |
+| No | Project name              | Repository (on Github)               | Summary                | Status        |
+|:--:|:-------------------------:|:------------------------------------:|:----------------------:|:-------------:|
+| 1  | Finding Lane Line         |[CarND-LaneLines-P1](https://github.com/pl80tech/CarND-LaneLines-P1) |[Writeup](https://github.com/pl80tech/CarND-LaneLines-P1/blob/master/WriteUp.md) | Completed |
+| 2  | Advanced Lane Finding     |[CarND-Advanced-Lane-Finding](https://github.com/pl80tech/CarND-Advanced-Lane-Finding) |[Writeup](https://github.com/pl80tech/CarND-Advanced-Lane-Finding/blob/master/WriteUp.md) | Completed |
+| 3  | Traffic Sign Recognition  |[CarND-Traffic-Sign-Classifier](https://github.com/pl80tech/CarND-Traffic-Sign-Classifier) |[Writeup](https://github.com/pl80tech/CarND-Traffic-Sign-Classifier/blob/master/WriteUp.md) | Completed |
+| 4  | Behavioral Cloning        |[CarND-Behavioral-Cloning-P3](https://github.com/pl80tech/CarND-Behavioral-Cloning-P3) |[Writeup](https://github.com/pl80tech/CarND-Behavioral-Cloning-P3/blob/master/WriteUp.md) | Completed |
+| 5  | Extended Kalman Filter    |[CarND-Extended-Kalman-Filter-Project](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project) |[Writeup](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project/blob/master/WriteUp.md) | Completed |
 
 ---
 
