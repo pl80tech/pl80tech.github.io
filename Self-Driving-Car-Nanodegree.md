@@ -47,3 +47,9 @@ This is the summary of my work on Self Driving Car Nanadegree Program (Udacity).
 ---
 
 ## Output video
+
+For quick reference, here is the summary:
+
+--> To be updated
+
+The details can be found in writeup report for each project.
