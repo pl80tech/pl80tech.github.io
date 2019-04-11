@@ -14,6 +14,8 @@ This is the summary of my work on Self Driving Car Nanadegree Program (Udacity).
 
 [//]: # (Image References)
 
+[P2_output]: https://github.com/pl80tech/CarND-Advanced-Lane-Finding/blob/master/output_videos/project_video_output.gif?raw=true "Final output video (Advanced Lane Finding Project)"
+
 ---
 
 ## About Self Driving Car Nanodegree
@@ -52,6 +54,6 @@ For quick reference, here is the summary:
 
 | Project name           | Link on Youtube |
 |:----------------------:|:---------------:|
-| Advanced Lane Finding  | [![P2_output_gif](https://github.com/pl80tech/CarND-Advanced-Lane-Finding/blob/master/output_videos/project_video_output.gif?raw=true)](http://www.youtube.com/watch?v=FqdoX5UH3c8) |
+| Advanced Lane Finding  | [![alt text][P2_output]](http://www.youtube.com/watch?v=FqdoX5UH3c8) |
 
 The details can be found in writeup report for each project.
