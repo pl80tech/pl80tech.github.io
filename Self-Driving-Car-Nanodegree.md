@@ -17,6 +17,7 @@ This is the summary of my work on Self Driving Car Nanadegree Program (Udacity).
 [P1_solidYellowLeft]: https://github.com/pl80tech/CarND-LaneLines-P1/blob/master/test_videos_output/solidYellowLeft.gif?raw=true "Solid Yellow Left (Finding Lane Line Project)"
 [P2_output]: https://github.com/pl80tech/CarND-Advanced-Lane-Finding/blob/master/output_videos/project_video_output.gif?raw=true "Final output video (Advanced Lane Finding Project)"
 [P3_output]: https://github.com/pl80tech/CarND-Behavioral-Cloning-P3/blob/master/autonomous_driving_WideAngle.gif?raw=true "Final output video (Behavioral Cloning Project)"
+[P7_output]: https://github.com/pl80tech/CarND-Path-Planning-Project/blob/master/output/final_short.gif?raw=true "Final output video (Path Planning Project)"
 
 ---
 
@@ -59,5 +60,6 @@ For quick reference, here is the summary:
 | Finding Lane Line      | [![alt text][P1_solidYellowLeft]](http://www.youtube.com/watch?v=LvdRSS2inxQ) |
 | Advanced Lane Finding  | [![alt text][P2_output]](http://www.youtube.com/watch?v=FqdoX5UH3c8) |
 | Behavioral Cloning     | [![alt text][P3_output]](http://www.youtube.com/watch?v=g6O5NLoP5NQ) |
+| Path Planning          | [![alt text][P7_output]](http://www.youtube.com/watch?v=LEVu-Uy5Nb0) |
 
 The details can be found in writeup report for each project.
