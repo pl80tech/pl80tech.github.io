@@ -16,7 +16,7 @@ This is the summary of my work on Self Driving Car Nanadegree Program (Udacity).
 
 [P1_solidYellowLeft]: https://github.com/pl80tech/CarND-LaneLines-P1/blob/master/test_videos_output/solidYellowLeft.gif?raw=true "Solid Yellow Left (Finding Lane Line Project)"
 [P2_output]: https://github.com/pl80tech/CarND-Advanced-Lane-Finding/blob/master/output_videos/project_video_output.gif?raw=true "Final output video (Advanced Lane Finding Project)"
-[P3_output]: https://github.com/pl80tech/CarND-Behavioral-Cloning-P3/blob/master/autonomous_driving_WideAngle.gif?raw=true "Final output video (Behavioral Cloning Project)"
+[P4_output]: https://github.com/pl80tech/CarND-Behavioral-Cloning-P3/blob/master/autonomous_driving_WideAngle.gif?raw=true "Final output video (Behavioral Cloning Project)"
 [P5_output]: https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project/blob/master/output/EKF_with_dataset1.gif?raw=true "Final output video (Extended Kalman Filter Project)"
 [P6_output]: https://github.com/pl80tech/CarND-Kidnapped-Vehicle-Project/blob/master/output/KidnappedVehicle.gif?raw=true "Final output video (Kidnapped Vehicle Project)"
 [P7_output]: https://github.com/pl80tech/CarND-Path-Planning-Project/blob/master/output/final_short.gif?raw=true "Final output video (Path Planning Project)"
@@ -62,7 +62,7 @@ For quick reference, here is the summary:
 |:----------------------:|:---------------:|
 | Finding Lane Line      | [![alt text][P1_solidYellowLeft]](http://www.youtube.com/watch?v=LvdRSS2inxQ) |
 | Advanced Lane Finding  | [![alt text][P2_output]](http://www.youtube.com/watch?v=FqdoX5UH3c8) |
-| Behavioral Cloning     | [![alt text][P3_output]](http://www.youtube.com/watch?v=g6O5NLoP5NQ) |
+| Behavioral Cloning     | [![alt text][P4_output]](http://www.youtube.com/watch?v=g6O5NLoP5NQ) |
 | Extended Kalman Filter | [![alt text][P5_output]](http://www.youtube.com/watch?v=K-3rZD_VK8A) |
 | Kidnapped Vehicle      | [![alt text][P6_output]](http://www.youtube.com/watch?v=2Qa63TRbtpw) |
 | Path Planning          | [![alt text][P7_output]](http://www.youtube.com/watch?v=LEVu-Uy5Nb0) |
