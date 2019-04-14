@@ -33,24 +33,24 @@ This is the summary of my work on Self Driving Car Nanadegree Program (Udacity).
 
 ## Term 1
 
-| No | Project name              | Repository (on Github)               | Summary                | Status        |
-|:--:|:-------------------------:|:------------------------------------:|:----------------------:|:-------------:|
-| 1  | Finding Lane Line         |[CarND-LaneLines-P1](https://github.com/pl80tech/CarND-LaneLines-P1) |[Writeup](https://github.com/pl80tech/CarND-LaneLines-P1/blob/master/WriteUp.md) | Completed |
-| 2  | Advanced Lane Finding     |[CarND-Advanced-Lane-Finding](https://github.com/pl80tech/CarND-Advanced-Lane-Finding) |[Writeup](https://github.com/pl80tech/CarND-Advanced-Lane-Finding/blob/master/WriteUp.md) | Completed |
-| 3  | Traffic Sign Recognition  |[CarND-Traffic-Sign-Classifier](https://github.com/pl80tech/CarND-Traffic-Sign-Classifier) |[Writeup](https://github.com/pl80tech/CarND-Traffic-Sign-Classifier/blob/master/WriteUp.md) | Completed |
-| 4  | Behavioral Cloning        |[CarND-Behavioral-Cloning-P3](https://github.com/pl80tech/CarND-Behavioral-Cloning-P3) |[Writeup](https://github.com/pl80tech/CarND-Behavioral-Cloning-P3/blob/master/WriteUp.md) | Completed |
-| 5  | Extended Kalman Filter    |[CarND-Extended-Kalman-Filter-Project](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project) |[Writeup](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project/blob/master/WriteUp.md) | Completed |
+| No | Project name | Repository (on Github) | Language | Summary | Status |
+|:--:|:------------:|:----------------------:|:--------:|:-------:|:------:|
+| 1  | Finding Lane Line        | [CarND-LaneLines-P1](https://github.com/pl80tech/CarND-LaneLines-P1) | Python | [Writeup](https://github.com/pl80tech/CarND-LaneLines-P1/blob/master/WriteUp.md) | Completed |
+| 2  | Advanced Lane Finding    | [CarND-Advanced-Lane-Finding](https://github.com/pl80tech/CarND-Advanced-Lane-Finding) | Python |[Writeup](https://github.com/pl80tech/CarND-Advanced-Lane-Finding/blob/master/WriteUp.md) | Completed |
+| 3  | Traffic Sign Recognition | [CarND-Traffic-Sign-Classifier](https://github.com/pl80tech/CarND-Traffic-Sign-Classifier) | Python | [Writeup](https://github.com/pl80tech/CarND-Traffic-Sign-Classifier/blob/master/WriteUp.md) | Completed |
+| 4  | Behavioral Cloning       | [CarND-Behavioral-Cloning-P3](https://github.com/pl80tech/CarND-Behavioral-Cloning-P3) | Python | [Writeup](https://github.com/pl80tech/CarND-Behavioral-Cloning-P3/blob/master/WriteUp.md) | Completed |
+| 5  | Extended Kalman Filter   | [CarND-Extended-Kalman-Filter-Project](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project) | C++ | [Writeup](https://github.com/pl80tech/CarND-Extended-Kalman-Filter-Project/blob/master/WriteUp.md) | Completed |
 
 ---
 
 ## Term 2
 
-| No | Project name              | Repository (on Github)               | Summary                | Status        |
-|:--:|:-------------------------:|:------------------------------------:|:----------------------:|:-------------:|
-| 6  | Kidnapped Vehicle         |[CarND-Kidnapped-Vehicle-Project](https://github.com/pl80tech/CarND-Kidnapped-Vehicle-Project) |[Writeup](https://github.com/pl80tech/CarND-Kidnapped-Vehicle-Project/blob/master/WriteUp.md) | Completed |
-| 7  | Path Planning             |[CarND-Path-Planning-Project](https://github.com/pl80tech/CarND-Path-Planning-Project) |[Writeup](https://github.com/pl80tech/CarND-Path-Planning-Project/blob/master/WriteUp.md) | Completed |
-| 8  | PID Control               |[CarND-PID-Control-Project](https://github.com/pl80tech/CarND-PID-Control-Project) |[Writeup](https://github.com/pl80tech/CarND-PID-Control-Project/blob/master/WriteUp.md) | Completed |
-| 9  | Programming a Real Self-Driving Car |[CarND-Capstone](https://github.com/pl80tech/CarND-Capstone) |[Writeup](https://github.com/pl80tech/CarND-Capstone/blob/master/WriteUp.md) | On-going |
+| No | Project name | Repository (on Github) | Language | Summary | Status |
+|:--:|:------------:|:----------------------:|:--------:|:-------:|:------:|
+| 6  | Kidnapped Vehicle     | [CarND-Kidnapped-Vehicle-Project](https://github.com/pl80tech/CarND-Kidnapped-Vehicle-Project) | Python, C++ | [Writeup](https://github.com/pl80tech/CarND-Kidnapped-Vehicle-Project/blob/master/WriteUp.md) | Completed |
+| 7  | Path Planning         | [CarND-Path-Planning-Project](https://github.com/pl80tech/CarND-Path-Planning-Project)  | Python, C++ |[Writeup](https://github.com/pl80tech/CarND-Path-Planning-Project/blob/master/WriteUp.md) | Completed |
+| 8  | PID Control           | [CarND-PID-Control-Project](https://github.com/pl80tech/CarND-PID-Control-Project)  | Python, C++ | [Writeup](https://github.com/pl80tech/CarND-PID-Control-Project/blob/master/WriteUp.md) | Completed |
+| 9  | Real Self-Driving Car | [CarND-Capstone](https://github.com/pl80tech/CarND-Capstone)  | Python | [Writeup](https://github.com/pl80tech/CarND-Capstone/blob/master/WriteUp.md) | On-going |
 
 ---
 
