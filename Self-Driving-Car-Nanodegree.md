@@ -67,5 +67,6 @@ For quick reference, here is the summary:
 | Kidnapped Vehicle      | [![alt text][P6_output]](http://www.youtube.com/watch?v=2Qa63TRbtpw) |
 | Path Planning          | [![alt text][P7_output]](http://www.youtube.com/watch?v=LEVu-Uy5Nb0) |
 | PID Control            | [![alt text][P8_output]](http://www.youtube.com/watch?v=zLosrupTjGo) |
+| Real Self-Driving Car  | To be updated soon |
 
 The details can be found in writeup report for each project.
