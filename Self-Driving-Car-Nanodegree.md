@@ -69,4 +69,4 @@ For quick reference, here is the summary:
 | PID Control            | [![alt text][P8_output]](http://www.youtube.com/watch?v=zLosrupTjGo) |
 | Real Self-Driving Car  | To be updated soon |
 
-The details can be found in writeup report for each project.
+The details (with more description and video) can be found in writeup report for each project.
