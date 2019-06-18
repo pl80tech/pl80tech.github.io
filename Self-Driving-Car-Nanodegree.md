@@ -21,6 +21,7 @@ This is the summary of my work on Self Driving Car Nanadegree Program (Udacity).
 [P6_output]: https://github.com/pl80tech/CarND-Kidnapped-Vehicle-Project/blob/master/output/KidnappedVehicle.gif?raw=true "Final output video (Kidnapped Vehicle Project)"
 [P7_output]: https://github.com/pl80tech/CarND-Path-Planning-Project/blob/master/output/final_short.gif?raw=true "Final output video (Path Planning Project)"
 [P8_output]: https://github.com/pl80tech/CarND-PID-Control-Project/blob/master/output/SimulationWithTunedCoefficient.gif?raw=true "Final output video (PID Control Project)"
+[P9_output]: https://github.com/pl80tech/CarND-Capstone/blob/master/video/highway_use_simulator_autonomous.gif?raw=true "Final output video (Capstone Project)"
 
 ---
 
@@ -67,6 +68,6 @@ For quick reference, here is the summary:
 | Kidnapped Vehicle      | [![alt text][P6_output]](http://www.youtube.com/watch?v=2Qa63TRbtpw) |
 | Path Planning          | [![alt text][P7_output]](http://www.youtube.com/watch?v=LEVu-Uy5Nb0) |
 | PID Control            | [![alt text][P8_output]](http://www.youtube.com/watch?v=zLosrupTjGo) |
-| Real Self-Driving Car  | To be updated soon |
+| Real Self-Driving Car  | [![alt text][P9_output]](http://www.youtube.com/watch?v=1xd7hfKjxeM) |
 
 The details (with more description and video) can be found in writeup report for each project.
