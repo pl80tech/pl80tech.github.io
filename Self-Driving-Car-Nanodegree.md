@@ -51,7 +51,7 @@ This is the summary of my work on Self Driving Car Nanadegree Program (Udacity).
 | 6  | Kidnapped Vehicle     | [CarND-Kidnapped-Vehicle-Project](https://github.com/pl80tech/CarND-Kidnapped-Vehicle-Project) | Python, C++ | [Writeup](https://github.com/pl80tech/CarND-Kidnapped-Vehicle-Project/blob/master/WriteUp.md) | Completed |
 | 7  | Path Planning         | [CarND-Path-Planning-Project](https://github.com/pl80tech/CarND-Path-Planning-Project)  | Python, C++ |[Writeup](https://github.com/pl80tech/CarND-Path-Planning-Project/blob/master/WriteUp.md) | Completed |
 | 8  | PID Control           | [CarND-PID-Control-Project](https://github.com/pl80tech/CarND-PID-Control-Project)  | Python, C++ | [Writeup](https://github.com/pl80tech/CarND-PID-Control-Project/blob/master/WriteUp.md) | Completed |
-| 9  | Real Self-Driving Car | [CarND-Capstone](https://github.com/pl80tech/CarND-Capstone)  | Python | [Writeup](https://github.com/pl80tech/CarND-Capstone/blob/master/WriteUp.md) | On-going |
+| 9  | Real Self-Driving Car | [CarND-Capstone](https://github.com/pl80tech/CarND-Capstone)  | Python | [Writeup](https://github.com/pl80tech/CarND-Capstone/blob/master/WriteUp.md) | Completed |
 
 ---
 
