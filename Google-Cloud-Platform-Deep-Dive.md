@@ -6,8 +6,8 @@ This is the summary/note of my work on multiple courses to deep dive on the tech
 
 ## Target Certificates
 
-* Google Cloud Certified - Professional Data Engineering
-* Google Cloud Certified - Professional Cloud Architect
+* [Google Cloud Certified - Professional Data Engineering](https://cloud.google.com/certification/data-engineer)
+* [Google Cloud Certified - Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
 
 ---
 
@@ -15,14 +15,14 @@ This is the summary/note of my work on multiple courses to deep dive on the tech
 
 ### Coursera
 
-* Advanced Machine Learning with Tensorflow on Google Cloud Platform (5-course Specialization)
-* Data Engineering, Big Data, and Machine Learning on Google Cloud Platform (6-course Specialization)
-* Architecting with Google Cloud Platform (6-course Specialization)
+* [Advanced Machine Learning with Tensorflow on Google Cloud Platform (5-course Specialization)](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
+* [Data Engineering, Big Data, and Machine Learning on Google Cloud Platform (6-course Specialization)](https://www.coursera.org/specializations/gcp-data-machine-learning)
+* [Architecting with Google Cloud Platform (6-course Specialization)](https://www.coursera.org/specializations/gcp-architecture)
 
 ### Linux Academy
 
-* Google Cloud Certified Professional Data Engineer
-* Google Cloud Certified Professional Cloud Architect
+* [Google Cloud Certified Professional Data Engineer](https://linuxacademy.com/cp/modules/view/id/208)
+* [Google Cloud Certified Professional Cloud Architect](https://linuxacademy.com/cp/modules/view/id/321)
 
 ---
 
