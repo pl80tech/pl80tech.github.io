@@ -32,3 +32,7 @@ Currently keeping as private repository.
 
 * https://github.com/pl80tech/DataEngineeringOnGCP
 * https://github.com/pl80tech/CloudArchitectOnGCP
+
+## Notes
+
+To be updated
