@@ -28,4 +28,7 @@ This is the summary/note of my work on multiple courses to deep dive on the tech
 
 ## Working repository
 
-To be updated
+Currently keeping as private repository.
+
+* https://github.com/pl80tech/DataEngineeringOnGCP
+* https://github.com/pl80tech/CloudArchitectOnGCP
